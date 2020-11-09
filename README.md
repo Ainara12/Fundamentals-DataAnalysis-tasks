@@ -1,2 +1,2 @@
 # Fundamentals-DataAnalysis-tasks
-I created this repository for Fundamentals of Data Analysis tasks.
+I created this repository for Machine learning module. 
