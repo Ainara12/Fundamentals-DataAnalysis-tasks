@@ -9,8 +9,9 @@ I have created this repository to include the 4 tasks for the Fundamentals of Da
 ### Contents of this repository
 * **Drafts folder**,that I keep coming back and find possible new solutions to tasks or practice examples there.
 * **Fundamentals DA-Taks**
-* .gitignore
+* .gitignore file
 * README file
+* LICENSE file
 
 The four tasks are included inside the notebook titled **'Fundamentals DA-Taks'**.
 
